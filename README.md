@@ -29,7 +29,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 **Diana Díaz Bisbé**
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/azure-openai-aprende-a-usar-los-modelos-de-ia-generativa/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQG0d4JJo5x-Wg/learning-public-crop_675_1200/0/1717501882905?e=2147483647&v=beta&t=5ll4W69ZoBC9lNX49N4Rmjej4-lrafy4AGe9Pyb4IwU
 
 [1]: # (End of ES-Instruction ###############################################################################################)
