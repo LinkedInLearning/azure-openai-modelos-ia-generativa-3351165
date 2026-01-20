@@ -1,0 +1,18 @@
+[project]
+name = "assistants"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-ai-evaluation>=1.13.7",
+    "azure-identity>=1.25.1",
+    "dotenv>=0.9.9",
+    "openai>=2.11.0",
+    "requests>=2.32.5",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]

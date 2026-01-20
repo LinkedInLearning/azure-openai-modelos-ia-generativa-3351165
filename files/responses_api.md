@@ -1,9 +1,9 @@
+## Responses API
 
+- Mantener el contexto de la conversación de forma stateful.
+- Llamar a herramientas, hacer búsquedas, interpretar código, etc.
 
-## **Requisitos Azure OpenAI**
-
-- Azure account
-- Azure OpenAI service access (https://aka.ms/oai/access)
+sin orquestación propia
 
 
 ## UV Commands
@@ -13,5 +13,4 @@
 | `uv init assistant`         | Initialize a new Azure OpenAI assistant project. |
 | `cd <project-folder>`        | Change directory to the project folder.          |
 | `uv add azure-oai`          | Add Azure OpenAI service to the project.            |
-| `uv add --dev ipykernel`         | Installs ipykernel as a development dependency.  |
-
+| `uv --dev ipykernel`         | Installs ipykernel as a development dependency.  |
